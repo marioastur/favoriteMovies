@@ -1,0 +1,14 @@
+#moviesSection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    min-width: 30em;
+    margin: 1em;
+}

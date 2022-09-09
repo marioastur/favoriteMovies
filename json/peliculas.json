@@ -1,0 +1,94 @@
+{
+  "peliculas": [
+    {
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción",
+      "caratula":"https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film160882.html"
+    },
+    {
+      "id": 4,
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción",
+      "caratula":"https://pics.filmaffinity.com/300-177205452-mmed.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film186830.html"
+    },
+    {
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama",
+      "caratula":"https://pics.filmaffinity.com/the_silence_of_the_lambs-767447992-mmed.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film768790.html"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia",
+      "caratula":"https://pics.filmaffinity.com/forrest_gump-212765827-mmed.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film444796.html" 
+    },
+    {
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental",
+      "caratula":"https://pics.filmaffinity.com/las_hurdes_tierra_sin_pan-618902623-mmed.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film595178.html"
+    },
+    {
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 9,
+      "caratula":"https://pics.filmaffinity.com/the_sixth_sense-516003703-mmed.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film607127.html"
+    },
+    {
+      "nombre": "Sagan",
+      "director": "Diane Kurys",
+      "clasificacion": "Drama",
+      "id": 10,
+      "caratula":"https://pics.filmaffinity.com/sagan-889271028-mmed.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film734776.html"
+    },
+    {
+      "nombre": "Batman",
+      "director": "Tim Burton",
+      "clasificacion": "Drama",
+      "id": 11,
+      "caratula":"https://pics.filmaffinity.com/batman-910896570-mmed.jpg",
+      "enlace":"https://www.filmaffinity.com/es/film732599.html"
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Todas",
+      "id": 0
+    },
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    },
+    {
+      "nombre": "SciFi",
+      "id": 5
+    }
+  ]
+}
